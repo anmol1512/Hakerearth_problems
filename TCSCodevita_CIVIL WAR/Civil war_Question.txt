@@ -1,0 +1,16 @@
+Civil War
+
+In this superhero epic, the denizens of the Marvel Universe are forced to pick sides when Captain America and Iron Man come to blows over ideological diverences.
+The government decides to push for the Hero Registration Act, a law that limits a hero's actions. This results in a division in The Avengers: Iron Man stands with this Act, claiming that their actions must be kept in check otherwise cities will continue to be destroyed, but Captain America feels that saving the world is daring enough and that they cannot rely on the government to protect the world. And here the Civil War begins
+
+They are trying make their team stronger by adding more Avengers to their team. There are N Avengers lined up
+
+Rules to add Avenger to their team are as follows:
+
+• Any team can start first. But they will choose alternately only.
+
+• They can select an Avenger from any side i.e. either Left or Right. But if they start from one side, they can't move to other side in their current turn.
+
+• They can select as many consecutive Avengers as they want subject to condition that their overall team strength has increased after the latest selection. The team also has the option to not select any Avenger if at least one Avenger has been selected in that turn and the next available Avenger selection will reduce the team's power.
+
+• Adding to team will stop only when all the Avengers are part of either side.
